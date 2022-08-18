@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **JSman225/JSman225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hey there 👋! My name is JSman225. 
+# I am a Web UI Designer and Developer and am currently helping out Astrocore with website design!
+<img src="https://github-readme-stats.vercel.app/api?username=ProtDos&theme=dark&show_icons=true&count_private=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProtDos&theme=dark"/>

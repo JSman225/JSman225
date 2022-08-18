@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hey there 👋! My name is JSman225. 
-<h1>I am a Web UI Designer and Developer and am currently helping out Astrocore with website design!</h1>
+<h1>Hey there 👋! My name is JSman225.</h1>
+<h3>I am a Web UI Designer and Developer and am currently helping out Astrocore with website design!</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=JSman225&theme=dark&show_icons=true&count_private=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSman225&theme=dark"/>

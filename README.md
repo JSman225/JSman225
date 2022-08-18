@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hey there 👋! My name is JSman225. 
-# I am a Web UI Designer and Developer and am currently helping out Astrocore with website design!
-<img src="https://github-readme-stats.vercel.app/api?username=ProtDos&theme=dark&show_icons=true&count_private=true"/>
+<h1>I am a Web UI Designer and Developer and am currently helping out Astrocore with website design!</h1>
+<img src="https://github-readme-stats.vercel.app/api?username=JSman225&theme=dark&show_icons=true&count_private=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProtDos&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSman225&theme=dark"/>

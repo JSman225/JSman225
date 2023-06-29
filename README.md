@@ -1,21 +1,10 @@
 
-
-<!--
-**JSman225/JSman225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1>Hey there 👋! My name is JSman225.</h1>
-<h3>I am a Web UI Designer and Developer and am currently helping out Astrocore with website design!</h3>
+<h3>I am a Web UI/UX Designer and Web Developer!</h3>
+
+<h2>What I am doing right now:</h2>
+<p>  1) Practicing my own design skills on [Figma](https://figma.com)</p>
+
 <a href="https://skyline.github.com/JSman225/2022">View my GitHub Skyline!</a>
 <br>
 <br>

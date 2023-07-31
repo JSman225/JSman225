@@ -1,4 +1,4 @@
-
+<img src="https://komarev.com/ghpvc/?username=JSman225&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="JSman225" />
 <h1>Hey there 👋! My name is JSman225.</h1>
 <h3>I am a Web UI/UX Designer and Web Developer!</h3>
 
